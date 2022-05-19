@@ -9,7 +9,7 @@ description: 'A simple blog for people to hopefully interact, and connect with.'
 keywords: 
 author: Robert Ismo
 language: en
-timezone: 'Central'
+timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
