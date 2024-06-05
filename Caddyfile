@@ -1,3 +1,4 @@
-localhost:80
-root * ./build
-file_server
+robertismo.com {
+    root * /home/ubuntu/robertismo.com/build
+    file_server
+}
