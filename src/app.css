@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Comic Sans';
+    src: url(/fonts/comicsans.ttf);
+  }
+  @font-face {
+    font-family: 'Comic Sans';
+    src: url(/fonts/comicsansbold.ttf);
+    font-weight: bold;
+  }
+}
