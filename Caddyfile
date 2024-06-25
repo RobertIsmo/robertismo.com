@@ -1,3 +1,7 @@
+www.robertismo.com {
+    redir https://robertismo.com{uri}
+}
+
 robertismo.com {
     root * /home/ubuntu/robertismo.com/build
     file_server
